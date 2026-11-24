@@ -57,6 +57,7 @@ PROVINSI_ALIASES = {
     "KEP. RIAU": "Kepulauan Riau",
     "DKI JAKARTA": "DKI Jakarta",
     "D K I JAKARTA": "DKI Jakarta",
+    "DAERAH KHUSUS IBUKOTA JAKARTA": "DKI Jakarta",
     "JAKARTA RAYA": "DKI Jakarta",
     "DI YOGYAKARTA": "DI Yogyakarta",
     "D I YOGYAKARTA": "DI Yogyakarta",
